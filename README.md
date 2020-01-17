@@ -6,10 +6,10 @@
 
 2.访问github仓库,[wangruiling/MarkdownPhotos](https://github.com/wangruiling/MarkdownPhotos)
 
-3.访问图片MarkdownPhotos/master/image/TIM图片20180403110904.png
+3.访问图片MarkdownPhotos/master/image/2020/20200117103547.png
 
 4.点 download 按钮，在地址栏可以复制图片地址，或者在Download按钮上直接右键 "复制链接地址"
 
-5.拷贝链接地址https://raw.githubusercontent.com/wangruiling/MarkdownPhotos/master/image/TIM%E5%9B%BE%E7%89%8720180403110904.png
+5.拷贝链接地址: https://raw.githubusercontent.com/wangruiling/MarkdownPhotos/master/image/2020/20200117103547.png
 
-6.在Markdown中引用图片，![Aaron Swartz](https://raw.githubusercontent.com/wangruiling/MarkdownPhotos/master/image/TIM%E5%9B%BE%E7%89%8720180403110904.png)
+6.在Markdown中引用图片，![Aaron Swartz](https://raw.githubusercontent.com/wangruiling/MarkdownPhotos/master/image/2020/20200117103547.png)
